@@ -74,11 +74,12 @@ You can use ticker symbols from various global exchanges by appending the correc
 
 - A line chart showing the stock’s closing price over the selected time range.
 
-![BTC_USD.png](attachment:BTC_USD.png)
+![BTC_USD](assets/BTC_USD.png)
 
 - Console output of the raw data table.
 
-![image.png](attachment:image.png)
+![Raw Data Table](assets/image.png)
+
 
 ---
 
